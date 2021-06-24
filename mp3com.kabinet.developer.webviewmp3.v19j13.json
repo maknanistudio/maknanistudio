@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "file:///android_asset/music/playlist.html",
+"HOMEURL" : "https://sport.detik.com/sepakbola/gila-bola/d-5618488/cristiano-ronaldo-singkirkan-coca-cola-jadi-ide-marketing-ikea?tag_from=wp_beritautama&_ga=2.167613046.917787164.1624527920-1468956778.1624527920",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . . v19j13",
@@ -29,8 +29,8 @@
 
 "ads_on_exit_dialog" : true,
 
-"Mode_offline_mp3" : true,
-"Enable_Sticky_Notification" : true,
+"Mode_offline_mp3" : false,
+"Enable_Sticky_Notification" : false,
 
 
 "STARAPPID" : "201365479",
