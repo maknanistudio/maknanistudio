@@ -39,12 +39,12 @@
 "ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
 "ADMOB_NATIV" : "ca-app-pub-2314593950848693/5885341134",
 
-"hpk_alien" : "kuota data 30gb",
-"HPK_ADMOB1" : "Kuota Data",
-"HPK_ADMOB2" : "Bank Jenius",
-"HPK_ADMOB3" : "Simpati",
-"HPK_ADMOB4" : "Telkomsel",
-"HPK_ADMOB5" : "Donasi",
+"hpk_alien" : "",
+"hpkadmob1" : "",
+"hpkadmob2" : "",
+"hpkadmob3" : "",
+"hpkadmob4" : "",
+"hpkadmob5" : "",
 
 "FAN_BANNER" : "YOUR_PLACEMENT_ID",
 "FAN_INTER" : "YOUR_PLACEMENT_ID",
