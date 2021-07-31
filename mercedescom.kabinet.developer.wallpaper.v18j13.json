@@ -31,10 +31,10 @@
 "enable_sticky_notification" : true,
     
 "startapp" : "206008536",
-
-"admob_banner" : "ca-app-pub-8055720173248986/7908785460",
-"admob_inter" : "ca-app-pub-8055720173248986/6404132107",
-"admob_native" : "ca-app-pub-8055720173248986/4273078197",
+    
+"admob_banner" : "",
+"admob_inter" : "",
+"admob_native" : "",
 
 "hpk_alien" : "",
 "hpkadmob1" : "",
