@@ -4,7 +4,7 @@
 "json_popup_wait" : "Server Ready - v18j13",
   
 "mode_no_ads" : false,
-"mode_tes_iklan_fan_admob_startapp_appdodeal" : true,
+"mode_tes_iklan_fan_admob_startapp_appdodeal" : false,
 
 // Mode Iklan
 // 
@@ -20,7 +20,7 @@
 "pengaturan_iklan_inter" : "ADMOB",
 "pengaturan_iklan_native" : "ADMOB",
 
-"inter_count" : 2,
+"inter_count" : 3,
 
 "enable_strap" : true,
 "enable_strap_Splah" : false,
@@ -30,11 +30,11 @@
 "mode_offline_mp3" : false,
 "enable_sticky_notification" : true,
 
-"startapp" : "YOUR_APP_ID",
+"startapp" : "207839631",
 
-"admob_banner" : "",
-"admob_inter" : "",
-"admob_native" : "",
+"admob_banner" : "ca-app-pub-2703599222414440/6326575635",
+"admob_inter" : "ca-app-pub-2703599222414440/8798849824",
+"admob_native" : "ca-app-pub-2703599222414440/3546523143",
 
 "hpk_alien" : "",
 "hpkadmob1" : "",
@@ -49,9 +49,9 @@
 
 "appodeal_app_id" : "YOUR_APPODEAL_APP_KEY",
 
-"unity_banner_id" : "banner",
-"unity_inters_id" : "interstitial",
-"unity_id" : 4045251,
+"unity_banner_id" : "Banner_Android",
+"unity_inters_id" : "Interstitial_Android",
+"unity_id" : 4243727,
 "unity_test" : false,
 
 "applovin_banner_id" : "YOUR_AD_UNIT_ID",
