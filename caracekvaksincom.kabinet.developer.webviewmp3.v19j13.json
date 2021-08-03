@@ -1,7 +1,7 @@
 {
 "redirect" : {
 
-"HOMEURL" : "https://kabinetdeveloperexample.blogspot.com/2020/12/optimasi-blogger.html",
+"HOMEURL" : "https://caraceksertifikatvaksin.blogspot.com",
  
  // testing server json yang dipakai
 "Json_popup_Wait" : "Server Ready . . . v19j13",
@@ -20,7 +20,7 @@
  // native hanya bisa admob fan appodeal
 "PENGATURAN_IKLAN_banner" : "ADMOB",
 "PENGATURAN_IKLAN_inter" : "ADMOB",
-"PENGATURAN_IKLAN_native" : "FAN",
+"PENGATURAN_IKLAN_native" : "ADMOB",
 
 "INTER_COUNT" : 4,
 
@@ -33,7 +33,7 @@
 "Enable_Sticky_Notification" : false,
 
 
-"STARAPPID" : "201365479",
+"STARAPPID" : "",
 
 "ADMOB_BANNER" : "ca-app-pub-2314593950848693/9824586142",
 "ADMOB_INTER" : "ca-app-pub-2314593950848693/8511504478",
